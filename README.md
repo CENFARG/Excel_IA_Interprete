@@ -33,7 +33,7 @@ Las dependencias se instalan automáticamente al cargar el notebook, por lo que 
 
 ¡Prueba esta herramienta de forma inmediata en Google Colab! Haz clic en el botón para abrir y ejecutar el notebook:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OarofWoBTkdwgubFZuVEY8V_Se0urJF0?usp=copy)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CENFARG/Excel_IA_Interprete/blob/main/excelIAPandas_OPENAI_v02.ipynb)
 
 ---
 
@@ -49,6 +49,10 @@ Las dependencias se instalan automáticamente al cargar el notebook, por lo que 
    - Se generan archivos Excel con resultados, perfiles y visualizaciones, que podrás descargar.
 
 ---
+
+## ¿API KEY DE CODIGO?
+
+La API KEY incluida en el codigo esta limita a 1M tk de uso maximo, luego ya no funcionara
 
 ## Licencia
 
